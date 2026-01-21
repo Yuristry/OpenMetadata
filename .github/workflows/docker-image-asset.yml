@@ -1,4 +1,4 @@
-name: docker-openmetadata-server release app
+name: docker-yuri-server release app
 on:
   workflow_dispatch:
     inputs:
